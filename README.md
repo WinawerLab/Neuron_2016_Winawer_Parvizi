@@ -23,10 +23,10 @@ Example usage below:
  ebs_downloadData();
  
  % Make the figures
- ebs_MakeFigure1.m(); 
- ebs_MakeFigure2.m();
- ebs_MakeFigure3.m();
- ebs_MakeFigure4.m();
+ ebs_MakeFigure1(); 
+ ebs_MakeFigure2();
+ ebs_MakeFigure3();
+ ebs_MakeFigure4();
  ```
  
 Code (c) Jonathan Winawer
