@@ -8,7 +8,7 @@ Primary Visual Cortex, Size of Affected Cortical Area, Neuronal
 Responses, and Subjective Experience Neuron. 92(6):1213?1219
 http://dx.doi.org/10.1016/j.neuron.2016.11.008
 
-The code downloads the data from the Open Science Framework project page (DOI 10.17605/OSF.IO/PZ42U) and then reproduces 4 main figures in the paper, as well as some supplementary figures.
+The code downloads the data from the Open Science Framework project page (dx.doi.org/10.17605/OSF.IO/PZ42U) and then reproduces 4 main figures in the paper, as well as some supplementary figures.
 
 The code runs in Matlab and was written and tested using Matlab2015b on an Apple computer (OS 10.12.2).
 
