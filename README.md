@@ -22,7 +22,7 @@ Example usage below:
  % Download the data (this only needs to be done once)
  ebs_downloadData();
  
- % Make the figure
+ % Make the figures
  ebs_MakeFigure1.m(); 
  ebs_MakeFigure2.m();
  ebs_MakeFigure3.m();
