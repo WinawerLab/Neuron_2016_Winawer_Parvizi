@@ -15,6 +15,7 @@ The code runs in Matlab and was written and tested using Matlab2015b on an Apple
 To use the code, download or clone this github repository, then navigate to the repository in the Matlab command window.
 Example usage below:
 
+``` Matlab
  % Navigate to the correct folder and add the paths
  addpath(genpath(pwd))
  
@@ -26,5 +27,5 @@ Example usage below:
  ebs_MakeFigure2.m();
  ebs_MakeFigure3.m();
  ebs_MakeFigure4.m();
- 
+ ```
  
