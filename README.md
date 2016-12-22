@@ -29,3 +29,5 @@ Example usage below:
  ebs_MakeFigure4.m();
  ```
  
+Code (c) Jonathan Winawer
+Please direct any comments about the code via the issues page associated with this GitHub repository, or via email to jonathan.winawer@nyu.edu
