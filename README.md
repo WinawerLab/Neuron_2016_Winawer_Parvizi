@@ -12,6 +12,12 @@ The code downloads the data from the Open Science Framework project page (DOI 10
 
 The code runs in Matlab and was written and tested using Matlab2015b on an Apple computer (OS 10.12.2).
 
+Dependencies:
+* curve_fitting_toolbox
+* optimization_toolbox
+* signal_toolbox
+* statistics_toolbox
+
 To use the code, download or clone this github repository, then navigate to the repository in the Matlab command window.
 Example usage below:
 
